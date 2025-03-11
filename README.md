@@ -1,3 +1,3 @@
 ## Weather App
 
-### MAde with REACT usinf an API from openweathermap.org
+### Made with REACT using an API from openweathermap.org

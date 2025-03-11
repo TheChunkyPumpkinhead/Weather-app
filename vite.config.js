@@ -1,4 +1,4 @@
-import "web-streams-polyfill/es2019";
+import "web-streams-polyfill";
 import { defineConfig } from "vite";
 
 import react from "@vitejs/plugin-react";
